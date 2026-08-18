@@ -1,4 +1,4 @@
-# OnTheFly
+# Volare
 
 An Android app for running and monitoring Cursor Cloud Agents from your phone.
 
@@ -12,8 +12,8 @@ Point an agent at one of your repositories, watch it work in real time, and open
 
 ## Install
 
-Download the latest `onthefly-*.apk` from
-[Releases](https://github.com/PoisonAifih/OnTheFly-ApkRelease/releases/latest), open it on your phone, and allow installs from unknown sources when prompted. Android 8.0/Sdk 26 or newer is required.
+Download the latest `volare-*.apk` from
+[Releases](https://github.com/PoisonAifih/Volare-ApkRelease/releases/latest), open it on your phone, and allow installs from unknown sources when prompted. Android 8.0/Sdk 26 or newer is required.
 
 ## Setup
 
